@@ -1,2 +1,2 @@
 [dev]
-ec2-65-2-69-156.ap-south-1.compute.amazonaws.com ec2-user=ec2-user
+172.31.10.177 ansible_user=ec2-user
