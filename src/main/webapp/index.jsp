@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2 stype="colour: red">HELLO VERONICA</h2>
+<h2 stype="colour: red">Thanks for everything</h2>
 </body>
 </html>
